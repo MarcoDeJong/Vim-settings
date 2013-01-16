@@ -7,3 +7,7 @@ Mac users
 ---------
 On MacOSx there is a custom VI for Mac install. (On most systems installed by default.) 
 Edit .vimrc in /usr/share/vim to make settings global for all users
+
+*edit* 
+Damn you folks at Apple. During upgrade to Mountain Lion, the 'old' .vimrc settings are being removed (and vi as a whole), without notice.
+On the other side, they finally have a proper VI version installed now. Create the .vimrc in your profile home to fix.
